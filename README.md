@@ -6,6 +6,8 @@ Used text editor is VS Code.
 Used shell is bash.
 OS is Windows 11.
 
+All the tasks descriptions can be found in Task_tracker.txt
+
 ### Setup environment:
 
 1. Download and install version 3.10.* and 3.9.0 from python.org
