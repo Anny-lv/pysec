@@ -1,0 +1,36 @@
+PSE TASK TRACKER
+
+## Language Essentials ##
+1. Demonstrate use of multiple Python compilers +
+2. Demonstrate use of Python virtual environments +
+
+## Data Types ##
+3. Explore different data types available in Python and demonstrate use of them +
+
+## Conditional Statements ##
+4. Explore loops in Python and demonstrate use of them +
+
+## Functions, Classes and Objects ##
+5. Explore classes in Python and demonstrate use of them +
+6. Explore different types of exceptions in Python + 
+7. Explore Python modules and packages by writing your own example +
+
+## System Programming ##
+8. Read and parse log file +
+9. Write a Python script capable to travel through a directory tree +
+    > directory_tree.py
+10. Write your own example using Python Threading module
+    > threading_example.py
+11. Make use of Python signal handlers to handle SIGINT
+    > signit_example.py
+
+## Network Programming ##
+12. Create a Pythonic file downloader
+    > download_progress.py
+13. Create FTP site parser
+    > fpt_servers.py
+14. Create TCP SYN network port scanner
+    > open_ports_scanner.py
+
+## Challange ##
+15. Create a distributed password cracker in Python with MPI (Optional)
