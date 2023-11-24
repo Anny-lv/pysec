@@ -1,8 +1,10 @@
 PSE TASK TRACKER
 
 ## Language Essentials ##
-1. Demonstrate use of multiple Python compilers +
-2. Demonstrate use of Python virtual environments +
+1. Demonstrate use of multiple Python compilers - [x]
+    in Readme file.
+2. Demonstrate use of Python virtual environments
+    in readme file 
 
 ## Data Types ##
 3. Explore different data types available in Python and demonstrate use of them +
