@@ -3,7 +3,7 @@ PSE TASK TRACKER
 ## Language Essentials ##
 1. Demonstrate use of multiple Python compilers - [x]
     in Readme file.
-2. Demonstrate use of Python virtual environments
+2. Demonstrate use of Python virtual environments - [x]
     in readme file 
 
 ## Data Types ##
@@ -19,20 +19,20 @@ PSE TASK TRACKER
 
 ## System Programming ##
 8. Read and parse log file +
-9. Write a Python script capable to travel through a directory tree +
+9. Write a Python script capable to travel through a directory tree - [x]
     > directory_tree.py
-10. Write your own example using Python Threading module
+10. Write your own example using Python Threading module - [x]
     > threading_example.py
-11. Make use of Python signal handlers to handle SIGINT
+11. Make use of Python signal handlers to handle SIGINT - [x]
     > signit_example.py
 
 ## Network Programming ##
-12. Create a Pythonic file downloader
+12. Create a Pythonic file downloader - [x]
     > download_progress.py
-13. Create FTP site parser
+13. Create FTP site parser - [x]
     > fpt_servers.py
-14. Create TCP SYN network port scanner
+14. Create TCP SYN network port scanner - [x]
     > open_ports_scanner.py
 
 ## Challange ##
-15. Create a distributed password cracker in Python with MPI (Optional)
+15. Create a distributed password cracker in Python with MPI (Optional) - []
