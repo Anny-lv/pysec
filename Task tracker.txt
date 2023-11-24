@@ -7,18 +7,24 @@ PSE TASK TRACKER
     in readme file 
 
 ## Data Types ##
-3. Explore different data types available in Python and demonstrate use of them +
+3. Explore different data types available in Python and demonstrate use of them - [x]
+    main.py / whole project
 
 ## Conditional Statements ##
-4. Explore loops in Python and demonstrate use of them +
+4. Explore loops in Python and demonstrate use of them  - [x]
+    main.py
 
 ## Functions, Classes and Objects ##
-5. Explore classes in Python and demonstrate use of them +
-6. Explore different types of exceptions in Python + 
-7. Explore Python modules and packages by writing your own example +
+5. Explore classes in Python and demonstrate use of them - [x]
+    whole project
+6. Explore different types of exceptions in Python - [x]
+    whole project
+7. Explore Python modules and packages by writing your own example - [x]
+    whole project
 
 ## System Programming ##
-8. Read and parse log file +
+8. Read and parse log file - [x]
+    get_log_errors.py
 9. Write a Python script capable to travel through a directory tree - [x]
     > directory_tree.py
 10. Write your own example using Python Threading module - [x]
